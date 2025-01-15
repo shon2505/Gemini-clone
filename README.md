@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/shon2505/Gemini-clone.git)
    cd <repository-folder>
    ```
 
